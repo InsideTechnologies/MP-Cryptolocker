@@ -1,4 +1,4 @@
-1 MP-Cryptolocker
+#MP-Cryptolocker
 
 Welcome to CryptoLocker Detect Management Pack project
 
@@ -9,7 +9,7 @@ Before start, read the Deployment Guide!
 What's New in build 1.0.1.2017:
 
 - New extensions added
-- New build convention
+- New building convention
 
 What’s New in build 1.0.0.0:
 
