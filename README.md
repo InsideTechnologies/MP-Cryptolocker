@@ -6,6 +6,10 @@ This free Management Pack for System Center Operations Manager allows you to det
 
 Before start, read the Deployment Guide!
 
+What's New in build 1.0.2.2017:
+
+- Bug Fixing
+
 What's New in build 1.0.1.2017:
 
 - New extensions added
