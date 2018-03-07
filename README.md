@@ -11,7 +11,6 @@ What's New in build 1.0.2.2017:
 What's New in build 1.0.1.2017:
 
 - New extensions added
-- New building convention
 
 What’s New in build 1.0.0.0:
 
